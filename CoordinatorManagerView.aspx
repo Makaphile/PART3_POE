@@ -30,6 +30,6 @@
         </div>
     </form>
     <p>
-        S</p>
+        &nbsp;</p>
 </body>
 </html>
